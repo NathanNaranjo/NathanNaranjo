@@ -7,7 +7,7 @@
   <a href="[your-youtube-URL](https://www.youtube.com/channel/UCj4vLIwZPh_o-9GPk98kfDg)">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="[https://twitter.com/legacyofrezzy]">
+  <a href="https://twitter.com/legacyofrezzy">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
