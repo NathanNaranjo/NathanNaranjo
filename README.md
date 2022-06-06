@@ -64,7 +64,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### ✍️ Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello, New Things to Explore](https://dev.to/natenaranjo/hello-new-things-to-explore-2nh6)
+- [A New Start in Life](https://dev.to/natenaranjo/hello-new-things-to-explore-2nh6)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
