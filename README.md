@@ -13,7 +13,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=nathannaranjo&style=flat-square&color=blue" alt=""/>
   <h1>
-    Nathan Naranjo
+    Nate Naranjo
   </h1>
 </div>
 <div align="center">
@@ -25,7 +25,7 @@
 ### About Me:
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Texas.
 
-- 👋 Hi, I’m @NathanNaranjo
+- 👋 Hi, I’m @Nate Naranjo
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -51,6 +51,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NathanNaranjo&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Nate's github stats](https://github-readme-stats.vercel.app/api?username=nathannaranjo&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathannaranjo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
