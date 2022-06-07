@@ -26,10 +26,10 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Texas.
 
 - 👋 Hi, I’m @Nate Naranjo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: 
+- 👀 I’m interested in learning Fullstack Development & Blockchain Development
+- 🌱 I’m currently learning Blockchain Development
+- 💞️ I’m looking to collaborate on Algorand.
+- 📫 How to reach me: In the comments.  
 
 ---
 
