@@ -17,7 +17,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://octodex.github.com/images/NUX_Octodex.gif" width="600"   height="300"/>
+  <img src="https://octodex.github.com/images/NUX_Octodex.gif"/>
 </div>
 
 ---
