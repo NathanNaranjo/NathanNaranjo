@@ -17,7 +17,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://animesher.com/orig/0/81/814/8141/animesher.com_hands-mac-monochrome-814100.gif" />
+  <img src="https://i.pinimg.com/originals/33/d3/5d/33d35db8934632ded132d7cb171c8a21.gif" />
 </div>
 
 ---
