@@ -17,7 +17,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://i.pinimg.com/originals/25/81/28/258128ed71595efc9b561ed7d88b89f2.gif" />
+  <img src="https://animesher.com/orig/0/10/102/1024/animesher.com_sket-dance-computer-gif-102487.gif" />
 </div>
 
 ---
