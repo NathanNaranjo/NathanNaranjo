@@ -17,7 +17,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://thumbs.gfycat.com/CostlyInexperiencedAndeancondor-size_restricted.gif" />
+  <img src="https://data.whicdn.com/images/260776147/original.gif" />
 </div>
 
 ---
