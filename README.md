@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://icons-for-free.com/iconfiles/png/512/Coding-1320568096072194118.png" width="100"/>
+  <img src="https://avatars.githubusercontent.com/u/46088263?v=4" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/natenaranjo">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
