@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://icons-for-free.com/iconfiles/png/512/Coding-1320568096072194118.png" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/natenaranjo">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,7 +17,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600"   height="300"/>
+  <img src="https://w7.pngwing.com/pngs/52/222/png-transparent-transparent-mockup-macbook-transparent-macbook-pro-coffee-transparent-ipad-eye-glass-transparent-design.png" width="600"   height="300"/>
 </div>
 
 ---
