@@ -17,7 +17,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://w7.pngwing.com/pngs/52/222/png-transparent-transparent-mockup-macbook-transparent-macbook-pro-coffee-transparent-ipad-eye-glass-transparent-design.png" width="600"   height="300"/>
+  <img src="https://octodex.github.com/images/NUX_Octodex.gif" width="600"   height="300"/>
 </div>
 
 ---
