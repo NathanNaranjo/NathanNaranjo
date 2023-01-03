@@ -15,7 +15,6 @@
   <h1>
     Nate Naranjo
   </h1>
-  <h2>natenaranjodev@gmail.com</h2>
 </div>
 <div align="center">
   <img src="https://i.pinimg.com/originals/33/d3/5d/33d35db8934632ded132d7cb171c8a21.gif" />
@@ -29,8 +28,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 👋 Hi, I’m @Nate Naranjo
 - 👀 I’m interested in learning Fullstack Development & Blockchain Development
 - 🌱 I’m currently learning Blockchain Development
-- 💞️ I’m looking to collaborate on Algorand.
-- 📫 How to reach me: In the comments.  
+- 📫 How to reach me: natenaranjodev@gmail.com
 
 ---
 
