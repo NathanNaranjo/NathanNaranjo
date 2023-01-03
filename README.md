@@ -15,6 +15,7 @@
   <h1>
     Nate Naranjo
   </h1>
+  <h2>natenaranjodev@gmail.com</h2>
 </div>
 <div align="center">
   <img src="https://i.pinimg.com/originals/33/d3/5d/33d35db8934632ded132d7cb171c8a21.gif" />
